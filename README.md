@@ -5,9 +5,9 @@ Expert in architecting end-to-end Machine Learning pipelines and solving complex
 ---
 
 ### Tech Stack
-**Languages:** Python, C++, SQL  
+**Languages:** Python, Javascript, C++, SQL  
 **Frameworks:** PyTorch, TensorFlow, Transformers, FastAPI  
-**Specialties:** Deep Learning, CV, NLP, MLOps  
+**Specialties:** Deep Learning, CV, NLP, ML  
 
 ---
 
