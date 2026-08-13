@@ -220,19 +220,25 @@ I use Kaggle to practice machine learning, experiment with models, work with rea
 <a href="https://github.com/popodrago">
 
 <div align="center">
-
+<table>
+<tr>
+<td>
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=popodrago&theme=github_dark"
-  width="48%"
+  width="100%"
   alt="GitHub Statistics"
 />
+</td>
 
+<td>
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=popodrago&theme=github_dark"
-  width="48%"
+  width="100%"
   alt="Repository Languages"
 />
-
+</td>
+</tr>
+</table>
 </div>
 
 </a>
