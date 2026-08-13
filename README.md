@@ -299,10 +299,6 @@ The goal is to designed, implemented, deploye, and integrate real supporting pro
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=popodrago&label=PROFILE+VIEWS&color=00FFFF&style=flat-square" alt="Profile Views"/>
-
-<br><br>
-
 <sub>Building systems. Learning continuously. Exploring Computer Science.</sub>
 
 </div>
