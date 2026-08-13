@@ -19,10 +19,10 @@
 
 ---
 
-### Tech Stack & Ecosystem
+### 🛠️ Tech Stack & Ecosystem
 
 <details open>
-<summary><b>Core Languages & Data</b></summary>
+<summary><b>🚀 Core Languages & Data</b></summary>
 <br/>
 <p align="left">
   <img src="https://shields.io" alt="Python" />
@@ -33,7 +33,7 @@
 </details>
 
 <details open>
-<summary><b>Frameworks & AI Tools</b></summary>
+<summary><b>🧠 Frameworks & AI Tools</b></summary>
 <br/>
 <p align="left">
   <img src="https://shields.io" alt="PyTorch" />
@@ -45,19 +45,19 @@
 </details>
 
 <details open>
-<summary><b>Specialties</b></summary>
+<summary><b>🎯 Specialties</b></summary>
 <br/>
 <ul>
-  <li><b>Deep Learning</b> (Custom neural network architectures, optimization)</li>
-  <li><b>Computer Vision</b> (Object detection, segmentation, image processing)</li>
-  <li><b>Natural Language Processing</b> (LLMs, RAG pipelines, fine-tuning)</li>
-  <li><b>Machine Learning</b> (Predictive modeling, production pipelines)</li>
+  <li>🔥 <b>Deep Learning</b> (Custom neural network architectures, optimization)</li>
+  <li>👁️ <b>Computer Vision</b> (Object detection, segmentation, image processing)</li>
+  <li>🗣️ <b>Natural Language Processing</b> (LLMs, RAG pipelines, fine-tuning)</li>
+  <li>📈 <b>Machine Learning</b> (Predictive modeling, production pipelines)</li>
 </ul>
 </details>
 
 ---
 
-### Real-Time GitHub Analytics
+### 📊 Real-Time GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -76,7 +76,7 @@
 
 ---
 
-### Connect with Me
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.kaggle.com/mugishapacifique" target="_blank">
