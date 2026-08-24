@@ -243,13 +243,7 @@ I use Kaggle to practice machine learning, experiment with models, work with rea
 
 </a>
 
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com?user=popodrago&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=808080&currStreakNum=FFFFFF&sideNums=FFFFFF"
-width="70%"
-alt="GitHub Contribution Streak"
-/>
+<br>
 
 </div>
 
